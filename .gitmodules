@@ -1,3 +1,6 @@
 [submodule "submodules/update-gitea"]
     path = submodules/update-gitea
     url = ../update-gitea.git
+[submodule "submodules/git-hooks"]
+    path = submodules/git-hooks
+    url = ../git-hooks.git
