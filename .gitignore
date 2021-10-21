@@ -1,2 +1,2 @@
 # gitea: ignore token files
-home/gitea/.local/etc/gitea/tokens/*
+/home/gitea/.local/etc/gitea/tokens/*
